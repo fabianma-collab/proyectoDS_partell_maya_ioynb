@@ -1,1 +1,1 @@
-# proyectoDS_partell_maya_ioynb
+# proyectoDS_partell_maya_ipynb
